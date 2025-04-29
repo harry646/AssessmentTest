@@ -1,0 +1,4 @@
+Test Integration  Analyst
+1.	Gambar diagram tersebut merupakan arsitektur pembuatan backend untuk intgrasi dengan frontend pada aplikasi mobile, yang terdiri dari :
+a.	OpenAPI 3.1 , merupakan RESTAPI yang versi terbaru. 
+b.	Terdapat beberapa microservices yang terhubung dengan core banking, yang dapat di lakukan deploy menggunakan Jenkins, dan monitoring log menggunakan Kibana. 
